@@ -7,8 +7,8 @@ Multithreaded for a text-based app.
 
 0. With package manager of choice, install (for python)
 
-   - pymongo.
-     - for example (using pip): pip3 install pymongo
+   - python3.
+   - pymongo
    - As of 2022, standard library includes everything else (re, json, socket, threading)
 
 1. Ensure ports for server.py and client(s).py are matching
